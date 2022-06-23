@@ -3,4 +3,4 @@
 <img src="https://img.shields.io/badge/Flutter-02569Bstyle=for-
 the-badge&logo=Flutter&logoColor=white">
 <br>
-![dasdfadssda's github stats](https://github-readme-stats.vercel.app/api?username=dasdfadssdaju&show_icons=true&hide_border=true)
+![dasdfadssda's github stats](https://github-readme-stats.vercel.app/api?username=dasdfadssda&show_icons=true&hide_border=true)
