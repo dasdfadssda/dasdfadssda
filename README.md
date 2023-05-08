@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=박정규%&fontSize=90)
 <br>
 <br>
+<br><br>
+<Strong>📧Email📧</Strong><br>quddkflty@gmail.com<br>
+ 
 ## 💻 Stack
 <div style={display:flex}>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -14,5 +17,4 @@
      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
-
 ![dasdfadssda's github stats](https://github-readme-stats.vercel.app/api?username=dasdfadssda&show_icons=true&hide_border=true)
