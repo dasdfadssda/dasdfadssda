@@ -3,6 +3,7 @@
 <br>
 <br><br>
 <Strong>📧Email📧</Strong><br>quddkflty@gmail.com<br>
+<br>
 <Strong>✏️Tistory✏️</Strong><br>https://quddkflty.tistory.com<br>
 
  
