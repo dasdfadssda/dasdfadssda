@@ -3,6 +3,8 @@
 <br>
 <br><br>
 <Strong>📧Email📧</Strong><br>quddkflty@gmail.com<br>
+<Strong>✏️Tistory✏️</Strong><br>https://quddkflty.tistory.com<br>
+
  
 ## 💻 Stack
 <div style={display:flex}>
