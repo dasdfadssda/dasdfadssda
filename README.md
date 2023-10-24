@@ -32,6 +32,5 @@
 <a href="https://stu.handong.edu/">한동대학교 총학생회 웹사이트 </a>
  </div>
 <br>
-<br>
+ </div>
 ![dasdfadssda's github stats](https://github-readme-stats.vercel.app/api?username=dasdfadssda&show_icons=true&hide_border=true)
-</div>
