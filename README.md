@@ -25,9 +25,13 @@
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </div>
+<div style={display:flex}>
 <h3>🚀 프로젝트</h3>
+<div>
 <a href="https://we-pard.com">PARD 웹사이트</a>
 <a href="https://stu.handong.edu/">한동대학교 총학생회 웹사이트 </a>
+ </div>
 <br>
 <br>
 ![dasdfadssda's github stats](https://github-readme-stats.vercel.app/api?username=dasdfadssda&show_icons=true&hide_border=true)
+</div>
