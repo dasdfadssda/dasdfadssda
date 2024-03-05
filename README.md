@@ -40,6 +40,10 @@
  <div>
 <a href="https://stu.handong.edu/">한동대학교 총학생회 웹사이트 </a>
 </div>
+ <br>
+ <div>
+<a href="https://chessextension.web.app">네이버 웨일 체스 </a>
+</div>
 
 <br>
 <br>
