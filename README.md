@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
+
 </div>
 <h3 style={coloe:"black"}>🌲 자주 사용하는 툴</h3>
 <div style={display:flex}>
