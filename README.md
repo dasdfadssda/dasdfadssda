@@ -4,11 +4,17 @@
 
 <br><br>
 
-<h3>🤚 Hello!</h3>
- <Strong>📧Email📧</Strong><br>quddkflty@gmail.com<br>
- 
-<br>
-<Strong>✏️Tistory✏️</Strong><br>https://quddkflty.tistory.com<br>
+# 👋 Hello!
+
+## 📧 Email
+quddkflty@gmail.com
+
+## ✏️ Tistory
+[Visit my Tistory](https://quddkflty.tistory.com)
+
+## 🎞️ Portfolio
+[Check out my Portfolio](https://exciting-lunch-fc2.notion.site/58f178a2d5c04b57b367cc6098f1077f?pvs=4)
+
 </div>
 <h1>💻 Stack</h1> 
 <h3>🌱 현재 학습 중</h3>
