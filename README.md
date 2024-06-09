@@ -13,7 +13,7 @@ quddkflty@gmail.com
 [Visit my Tistory](https://quddkflty.tistory.com)
 
 ## 🎞️ Portfolio
-[Check out my Portfolio](https://exciting-lunch-fc2.notion.site/58f178a2d5c04b57b367cc6098f1077f?pvs=4)
+[Check out my Portfolio](https://jeoungkyupark.notion.site/58f178a2d5c04b57b367cc6098f1077f?pvs=4)
 
 </div>
 <h1>💻 Stack</h1> 
