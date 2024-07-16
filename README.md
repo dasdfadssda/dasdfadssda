@@ -19,7 +19,6 @@ quddkflty@gmail.com
 <h1>💻 Stack</h1> 
 
 </div>
-<h3 style={coloe:"black"}>🌲 자주 사용하는 툴</h3>
 <div style={display:flex}>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/>
